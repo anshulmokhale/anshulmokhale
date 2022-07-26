@@ -1,0 +1,16 @@
+#contact{
+    padding-top: 7rem;
+}
+.frm{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: auto;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 5rem;
+}
